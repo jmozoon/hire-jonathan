@@ -143,11 +143,6 @@ export default function ConversationalAI({ agentId, className = '' }: Conversati
           </div>
 
         </div>
-
-        {/* Professional Footer */}
-        <div className="absolute bottom-4 right-4 text-white/40 text-sm">
-          Built by Jonathan Mozoon
-        </div>
       </motion.div>
     </AnimatePresence>
   );
